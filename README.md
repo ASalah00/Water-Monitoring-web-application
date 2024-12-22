@@ -1,5 +1,5 @@
 Water quality monitoring:
-This project regularly monitors and tracks the pH value of the water and fitness of water for
+This project regularly monitors and tracks the Turbidity value of the water and fitness of water for
 drinking purposes and display the result (SAFE/UNSAFE) on an LCD screen and on the web application.
 
 The pH value of water is periodically updated to the user over the internet. The user may set a “safe pH range” as
